@@ -1,6 +1,6 @@
-# purpleailab.com
+# BitterSecurity website
 
-Marketing website for **Purple AI LAB** — cybersecurity company building AI-powered deception technology.
+Marketing website for **BitterSecurity** — cybersecurity company building AI-powered deception technology.
 
 ## Overview
 
