@@ -55,4 +55,4 @@ export default {
   port,
 };
 
-console.log(`PurpleAILAB server listening on :${port}`);
+console.log(`BitterSecurity server listening on :${port}`);
